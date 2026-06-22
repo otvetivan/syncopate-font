@@ -1,1 +1,8 @@
-
+@font-face {
+    font-family: 'Syncopate';
+    src: url('Syncopate-BoldCyr.woff2') format('woff2'),
+         url('Syncopate-BoldCyr.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
